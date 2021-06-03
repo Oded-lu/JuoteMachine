@@ -1,1 +1,1 @@
-# [Click her for "random" Quotes](https://github.com/Oded-lu/QuoteMachine.git)
+# [Click her for "random" Quotes](https://oded-lu.github.io/QuoteMachine/)
